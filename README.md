@@ -21,3 +21,4 @@ Really simple script to check some configs in aws currently looking for
 - Unrestricted SSH Access
 - Unrestricted Telnet Access
 - Unrestricted Uncommon Access
+- AWS ACM Expired Certificates
